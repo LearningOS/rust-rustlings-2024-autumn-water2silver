@@ -19,7 +19,7 @@ struct UnitLikeStruct;
 #[cfg(test)]
 mod tests {
     use super::*;
-
+    // 
     #[test]
     fn classic_c_structs() {
         // TODO: Instantiate a classic c struct!
